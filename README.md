@@ -129,13 +129,15 @@ You can find the implementation on mAP and nMSD [here](https://github.com/gyglim
 If you use this dataset, please cite our paper:
 
 ```
-@article{gifs2017highlights,
-   author = {Gygli, Michael and García del Molino, Ana },
-   title = {{PHD-GIFs: Personalized Highlight Detection for Automatic GIF Creation}},   
-   journal = {arXiv preprint arXiv:1804.06604},
+@inproceedings{gifs2017highlights,
+   author = {Garcia del Molino, Ana and Gygli, Michael},
+   title = {{PHD-GIFs: Personalized Highlight Detection for Automatic GIF Creation}},
+   booktitle = {Proceedings of the 2018 ACM on Multimedia Conference},
+   series = {MM '18},
    year = {2018},
-   type = {Journal Article}
-}
+   publisher = {ACM},
+   address = {New York, NY, USA}
+} 
 ```
 
 ## References
